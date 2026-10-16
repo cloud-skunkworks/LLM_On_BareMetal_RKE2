@@ -1,4 +1,4 @@
-# ACMECORP Native LLM Inference Platform â€” demonstrator skill
+# ACMECORP Native LLM Inference Platform on demonstrator skill
 
 ## Download and start
 
