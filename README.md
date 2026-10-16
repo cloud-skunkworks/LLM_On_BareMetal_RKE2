@@ -1,4 +1,4 @@
-# ACMECORP Native LLM Inference Platform on demonstrator skill
+# ACMECORP Native LLM Inference Platform on BARE METAL #RKE2 demonstrator skill
 
 ## Download and start
 
